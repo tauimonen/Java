@@ -3,7 +3,7 @@
 // detect negative cycles.
 
 package com.company;
-import java.lang.*;
+import java.lang.*
 
 
 public class Graph {
